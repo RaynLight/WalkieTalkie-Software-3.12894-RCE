@@ -18,4 +18,4 @@ socat TCP-LISTEN:4444,fork EXEC:<full binary path>
 ```
 3. **Exploit it!!!**
 
-google-site-verification: googlee3bab511352a1a57.html
+<meta name="google-site-verification" content="syc5lA8hb4O6pCsGTMIMmgxbhHi4pdPiVOuCHTv9zZI" />
