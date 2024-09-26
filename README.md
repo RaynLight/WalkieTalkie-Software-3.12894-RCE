@@ -12,8 +12,10 @@ python3 WalkieTalkie-Software-3.12894-RCE.py --ip <ip> --port <port>
   
 If **you** want to set this up for example please follow these steps     
 1. **Download the binary**
-2. Use socat to redirect and fork traffic to the binary:  
+2. **Use socat to redirect and fork traffic to the binary:**
 ```
 socat TCP-LISTEN:4444,fork EXEC:<full binary path>
 ```
-3. **Exploit it!!!** 
+3. **Exploit it!!!**
+
+google-site-verification: googlee3bab511352a1a57.html
