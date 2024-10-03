@@ -1,6 +1,11 @@
 # WalkieTalkie-Software-3.12894-RCE
-Remote Code Execution for the WalkieTalkie Software 3.12894 software
-
+Guide for exploitation
+<br>
+<br>
+**Clone the Repository**
+```
+git clone https://github.com/RaynLight/WalkieTalkie-Software-3.12894-RCE.git
+```
 **Run the following command to exploit a remote server**
 ```
 python3 WalkieTalkie-Software-3.12894-RCE.py --ip <ip> --port <port>
